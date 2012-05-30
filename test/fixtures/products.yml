@@ -11,3 +11,9 @@ two:
   desc: MyText
   image_url: MyString
   price: 9.99
+
+python:
+  title: Python
+  desc: some desc dude
+  price: 677
+  image_url: pyt.GIF 
